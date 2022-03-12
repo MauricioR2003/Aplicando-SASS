@@ -1,0 +1,53 @@
+
+body {
+	background-color: gainsboro;
+	background-image: url(..//assets/img/fondoalvarado.jpg);
+	background-position: -220px;
+}
+.alvarado {
+	color: white;
+}
+.alvarado:hover {
+	color: red;
+	transition: 3s;
+}
+h3 h4 {
+	color: blueviolet;
+}
+.divtextoNoticias {
+	color: white;
+}
+ 
+.div_texto p {
+	color: white;
+}
+
+.div_texto h3 {
+ 	color: darkred;
+ 	font-family: fantasy;
+ }
+
+ .divTexto h3 {
+ 	color: black;
+ 	font-family: cursive;
+
+ }
+
+ .divTexto h4 {
+  	color: white;
+ 	font-family: 'Quintessential', cursive;
+ }
+
+.div_texto h1 {
+	color: whitesmoke;
+}
+
+.div_texto:hover h1 {
+	color: orangered;
+	transition: 2s;
+}
+
+.div_texto b h4 {
+	color: floralwhite;
+	font-family: cursive;
+}
